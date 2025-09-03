@@ -3,8 +3,7 @@ document.getElementById('loginForm')?.addEventListener('submit', function(e) {
     const message = document.getElementById('loginMessage')
     message.textContent = 'Login em processamento...'
     setTimeout(() => {
-        message.textContent = 'Login realizado com sucesso!'
-        message.style.color = 'green'
+        window.location.replace("login.html");
     }, 1500)
 })
 

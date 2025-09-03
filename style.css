@@ -6,12 +6,12 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f1fdf1;
+    background-image: url('assets/1600w-GBkLqT8-vcI.webp');
     color: #0f3d0f;
 }
 
 .header {
-    background-color: #bfa814;
+    background: linear-gradient(90deg,rgba(0, 74, 41, 1) 0%, rgba(6, 92, 10, 1) 35%, rgba(15, 122, 10, 1) 100%);
     color: white;
     padding: 20px;
     display: flex;
