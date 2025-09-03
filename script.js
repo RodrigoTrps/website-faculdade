@@ -26,9 +26,11 @@ const pages = {
             <h2>Nossos Produtos</h2>
             <ul>
             <li><a href='https://google.com'>Cartões</a></li>
-            <li><a href='https://google.com'>Empréstimos</a></li>  
+            <li><a href='https://google.com'>Empréstimos</a></li>
             <li><a href='https://google.com'>Conta Corrente</a></li>
             <li><a href='https://google.com'>Poupança</a></li>
+            <li><a href='https://google.com'>Salas Vips</a></li>
+            <li><a href='https://google.com'>Seguros</a></li>
             <p>e muito mais.</p>
             </ul>
         </section>
