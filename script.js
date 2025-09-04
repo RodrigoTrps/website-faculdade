@@ -28,7 +28,7 @@ const pages = {
             <li><a href='https://google.com'>Empréstimos</a></li>
             <li><a href='https://google.com'>Conta Corrente</a></li>
             <li><a href='https://google.com'>Poupança</a></li>
-            <li><a href='https://google.com'>Salas Vips</a></li>
+            <li><a href='https://google.com'>Micro Crédito</a></li>
             <li><a href='https://google.com'>Seguros</a></li>
             <p>e muito mais.</p>
             </ul>
