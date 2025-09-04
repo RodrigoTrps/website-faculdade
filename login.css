@@ -11,6 +11,10 @@ body {
     background-image: url('assets/1600w-GBkLqT8-vcI.webp');
 }
 
+p, h3 {
+    color: white;
+}
+
 main {
     margin: auto;
     margin-top: 50px;
@@ -25,9 +29,10 @@ div.cardSign {
     background: linear-gradient(90deg,rgba(0, 74, 41, 1) 0%, rgba(6, 92, 10, 1) 35%, rgba(15, 122, 10, 1) 100%);
     width: 400px;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     flex-direction: column;
+    padding-left: 26px;
     border-radius: 10px 0px 0px 10px;
 }
 
